@@ -21,10 +21,9 @@ I am a fanatic fact checker. I have overseen 45 episode series, and had the oppo
 Ruby, Javascript, HTML, CSS, Rails, SQL, ORM's: datamapper and activerecord
 
 ###Favourite things
+Test Driven Development, using Rspec, Capybara, Jasmine.
 Object Orientated Design.
 Single Responsibility Principle.
-
-Test Driven Development, using Rspec, Capybara, Jasmine.
 Agile practices: daily stand-ups, retros, pair programming, and delivering MVPs with an incremental approach to feature addition.
 
 #Technical Training 
@@ -33,7 +32,7 @@ Makers Academy (June 2016 – September 2016)
 Here are some projects which illustrate the key values I learnt throughout this course:
 
 blank_canvas
-BLAH
+other_example
 
 
 
