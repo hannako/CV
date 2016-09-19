@@ -14,7 +14,9 @@ I have made shows (i.e. scripted, directed and edited) to extremely tight deadli
 I've discovered I enjoy refactoring and debugging code almost as much as I once enjoyed fact checking. I have consulted on a number of factual science programmes, and recently oversaw a flagship 45 episode series for BBC2. I am methodical and meticulous in my approach, a skill I have found central to creating robust applications.
 
 ###Languages | Frameworks | Databases
-Ruby, Javascript, HTML, CSS, Rails, SQL, ORMs: datamapper and activerecord
+Ruby, Javascript, HTML, CSS
+Sinatra, Rails 
+SQL, ORMs: datamapper and activerecord
 
 ###Favourite things
 Test Driven Development, using Rspec, Capybara, Jasmine.
