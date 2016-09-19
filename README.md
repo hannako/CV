@@ -6,7 +6,7 @@ I am a junior full stack developer, available for immediate start. I love clean 
 
 Circa June 2016, I packed a successful 15-year career as a freelance TV producer onto a one-way space probe destined for the outer rim. I used to specialize in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic in London and New York City. 
 
-##Skills 
+#Skills 
 
 ###Drive
 I am highly motivated, and unafraid of challenge. I completed the 12-week Maker’s Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
@@ -27,7 +27,7 @@ Single Responsibility Principle
 Test Driven Development, using Rspec, Capybara, Jasmine.
 Agile practices: daily stand-ups, retros and delivering MVPs with an incremental approach to feature addition.
 
-### Technical Training 
+# Technical Training 
 Makers Academy  (June 2016 – September 2016)
 
 Here are some projects which illustrate the key values I learnt throughout this course:
