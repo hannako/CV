@@ -12,7 +12,7 @@ Circa June 2016, I packed a successful 15-year career as a freelance TV producer
 I am highly motivated, and unafraid of challenge. I completed the 12-week Maker’s Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
 
 ###Love of Learning
-I have made shows (i.e. scripted, directed and interviewed experts) on varied complex topics; From quantum teleportation to the chemistry of Heston’s perfect steak. I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a fast and enthusiastic learner. 
+I have made shows (i.e. scripted, directed and interviewed experts) on varied complex topics; From quantum computers to teleportation (it's a thing). I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a fast and enthusiastic learner. 
 
 ###Attention to Detail
 I am a fanatic fact checker. I have overseen 45 episode series, and had the opportunity to be a science consultant on a number of factual series. I am methodical and meticulous in my approach.
