@@ -1,10 +1,9 @@
 ##Jessica Jones
 
-I am a junior full stack developer, available for immediate start. I love clean code, being useful, and solving problems. I have an MSc in Science Media Production, a BSc in genetics and a shiny new GCSE in Astronomy. 
+I am a junior full stack developer, available for immediate start. I love clean code, being useful, and solving problems. I have an MSc in Science Media Production, a BSc in genetics and a shiny new GCSE in Astronomy.  I used to specialize in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic...but
 
-###About
 
-Circa June 2016, I packed a successful 15-year career as a freelance TV producer onto a one-way space probe destined for the outer rim. I used to specialize in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic in London and New York City. 
+I packed a successful 15-year career as a freelance TV producer onto a one-way space probe destined for the outer rim.
 
 #Skills 
 
