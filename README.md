@@ -4,7 +4,7 @@ I am a junior full stack developer, available for immediate start. I love clean 
 
 ##About
 
-Circa June 2016, I packed a successful 15-year career as a freelance TV producer onto a space probe destined for the outer solar system. Prior to Iearning to code, I specialized in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic in London and New York City. 
+Circa June 2016, I packed a successful 15-year career as a freelance TV producer onto a space probe destined for the outer solar system. I used to specialize in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic in London and New York City. 
 
 ##Skills 
 
