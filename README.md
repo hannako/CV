@@ -1,23 +1,20 @@
 ##Jessica Jones
 
-I am a junior full stack developer, available for immediate start. I love clean code, being useful, and solving problems. I have an MSc in Science Media Production, a BSc in genetics and a shiny new GCSE in Astronomy.  I used to specialize in science, engineering and food shows (my very own niche) and worked for the BBC, C4, Discovery and National Geographic...but
-
-
-I packed a successful 15-year career as a freelance TV producer onto a one-way space probe destined for the outer rim.
+I am a junior full stack developer, available for immediate start. I have an MSc in Science Media Production, a BSc in genetics and a shiny new GCSE in Astronomy. I was a freelance TV producer for 15 years, specializing in science, engineering and food shows for BBC1, BBC2, C4, ITV, Discovery and National Geographic. Earlier this year I made the exciting and liberating decision to turn from one type of programme making to another. Goodbye broadcast, Hello tech.  I love clean code, being useful, and solving problems. 
 
 #Skills 
 
 ###Drive
-I am highly motivated, and unafraid of challenge. I completed the 12-week Maker’s Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
+I am highly motivated, and unafraid of challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
 
 ###Love of Learning
-I have made shows (i.e. scripted, directed and interviewed experts) to extremely tight deadlines, on varied complex topics; From quantum computers to teleportation (it's a thing). I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a fast and enthusiastic learner. 
+I have made shows (i.e. scripted, directed and edited) to extremely tight deadlines, on varied complex topics; from quantum computers to teleportation (it's a thing). I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a quick and enthusiastic learner.
 
 ###Attention to Detail
-I am a fanatic fact checker. I have overseen 45 episode series, and had the opportunity to be a science consultant on a number of factual series. I am methodical and meticulous in my approach.
+I've discovered I enjoy refactoring and debugging code almost as much as I once enjoyed fact checking. I have consulted on a number of factual science programmes, and recently oversaw a flagship 45 episode series for the BBC2. I am methodical and meticulous in my approach, a skill I have found central to creating robust applications.
 
 ###Languages | Frameworks | Databases
-Ruby, Javascript, HTML, CSS, Rails, SQL, ORM's: datamapper and activerecord
+Ruby, Javascript, HTML, CSS, Rails, SQL, ORMs: datamapper and activerecord
 
 ###Favourite things
 Test Driven Development, using Rspec, Capybara, Jasmine.
