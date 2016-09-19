@@ -18,17 +18,18 @@ I have made shows (i.e. scripted, directed and interviewed experts) to extremely
 I am a fanatic fact checker. I have overseen 45 episode series, and had the opportunity to be a science consultant on a number of factual series. I am methodical and meticulous in my approach.
 
 ###Languages | Frameworks | Databases
-Ruby, Javascript, HTML, CSS
+Ruby, Javascript, JQuery, HTML, CSS
 SQL, ORM's: datamapper and activerecord
 
-###Favourite things
-Object Orientated Design
-Single Responsibility Principle
-Test Driven Development, using Rspec, Capybara, Jasmine.
-Agile practices: daily stand-ups, retros and delivering MVPs with an incremental approach to feature addition.
 
-# Technical Training 
-Makers Academy  (June 2016 – September 2016)
+###Favourite things
+Object Orientated Design.
+Single Responsibility Principle.
+Test Driven Development, using Rspec, Capybara, Jasmine.
+Agile practices: daily stand-ups, retros, pair programming, and delivering MVPs with an incremental approach to feature addition.
+
+#Technical Training 
+Makers Academy (June 2016 – September 2016)
 
 Here are some projects which illustrate the key values I learnt throughout this course:
 
