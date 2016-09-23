@@ -1,36 +1,40 @@
-##Jessica Jones
+# Jessica Jones
 
-I am a junior full stack developer, available for immediate start. I have an MSc in Science Media Production, a BSc in genetics and a shiny new GCSE in Astronomy. I was a freelance TV producer for 15 years, specializing in science, engineering and food shows for BBC1, BBC2, C4, ITV, Discovery and National Geographic. Earlier this year I made the exciting and liberating decision to turn from one type of programme making to another. Goodbye broadcast, Hello tech.  I love clean code, being useful, and solving problems. 
+**Available for immediate start as a junior full stack developer.**
 
-#Skills 
+Before learning to code I was a freelance TV producer, specializing in science, engineering and food shows for the BBC, C4, Discovery and National Geographic. Earlier this year I made the exciting decision to turn from one type of programme making to another. Goodbye broadcast...Hello tech.  I strive to write clean code, be useful, and solve problems.
 
-###Drive
-I am highly motivated, and unafraid of challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
+## Personal Attributes
 
-###Love of Learning
-I have made shows (i.e. scripted, directed and edited) to extremely tight deadlines, on varied complex topics; from quantum computers to teleportation (it's a thing). I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a quick and enthusiastic learner.
+### Drive
+I am highly motivated, and unafraid of a challenge. I completed the 12-week [Makers Academy](www.makersacademy.co.uk) coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
 
-###Attention to Detail
-I've discovered I enjoy refactoring and debugging code almost as much as I once enjoyed fact checking. I have consulted on a number of factual science programmes, and recently oversaw a flagship 45 episode series for BBC2. I am methodical and meticulous in my approach, a skill I have found central to creating robust applications.
+### Love of Learning
+I made shows (i.e. scripted, directed and edit produced) to extremely tight deadlines, on varied complex topics; from quantum computers to teleportation. I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a quick and enthusiastic learner.
 
-###Languages | Frameworks | Databases
-Ruby, Javascript, HTML, CSS
-Sinatra, Rails 
-SQL, ORMs: datamapper and activerecord
+### Attention to Detail
+I have consulted on a number of factual science programmes, and recently oversaw a flagship 45 episode series for BBC2. I am methodical and meticulous in my approach, a skill I have found central to learning to code.
 
-###Favourite things
-Test Driven Development, using Rspec, Capybara, Jasmine.
-Object Orientated Design.
-Single Responsibility Principle.
-Agile practices: daily stand-ups, retros, pair programming, and delivering MVPs with an incremental approach to feature addition.
-
-#Technical Training 
+## Technical Training
 Makers Academy (June 2016 – September 2016)
+- Test Driven Development, using Rspec, Capybara, Jasmine.
+- OOP, SOLID design principles.
+- Relational Databases and User Management.
+  - SQL, datamapper and ActiveRecord.
+- Languages: Ruby, Javascript, HTML, CSS.
+- Frameworks: Sinatra, Rails.
+- Agile practices, especially pair programming.
+Delivering MVPs with an incremental approach to feature addition.
 
-Here are some projects which illustrate the key values I learnt throughout this course:
+## Sample Project
 
-blank_canvas
-other_example
+Project| Summary |Technologies| Testing |Links
+ ------|--------|--------      |--------|----
+ Blank Canvas|Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo.| Ruby on Rails, Javascript, HTML5, CSS3, InteractJS|Rspec Capybara| [code](https://github.com/hannako/blank_canvas) [demo video](https://www.youtube.com/watch?v=13nNyEK-7a0)
 
 
+## Education
+In addition to my recent graduation from Makers Academy, I have an MSc in Science Media Production (Imperial College), a BSc in genetics (UCL) and a shiny new GCSE in Astronomy.
 
+## Other stuff
+I am a trustee of an educational charity, Lara's Foundation. I am a newish mum. I am newish blogger. I love science, cooking and Sandi Metz's POODR.
