@@ -30,7 +30,7 @@ Delivering MVPs with an incremental approach to feature addition.
 
 Project| Summary |Technologies| Testing |Links
  ------|--------|--------      |--------|----
- Blank Canvas|Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo.| Ruby on Rails, Javascript, HTML5, CSS3, InteractJS|Rspec Capybara| [code](https://github.com/hannako/blank_canvas) [demo video](https://www.youtube.com/watch?v=13nNyEK-7a0)
+ Blank Canvas|Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo.| Ruby on Rails, Javascript, HTML5, CSS3, InteractJS|Rspec Capybara| [code](https://github.com/hannako/blank_canvas) [demo video]https://vimeo.com/183908628
 
 
 ## Education
