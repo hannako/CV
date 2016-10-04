@@ -7,7 +7,7 @@ Before learning to code I was a freelance TV producer, specialising in science, 
 ## Personal Attributes
 
 #### Drive
-I am highly motivated, and unafraid of a challenge. I completed the 12-week [Makers Academy](https://www.makersacademy.com) coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
+I am highly motivated, and unafraid of a challenge. I completed the 12-week [Makers Academy](www.makersacademy.com) coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
 
 #### Love of Learning and Feedback
 I have made series (i.e. scripted, directed and edit produced) to extremely tight deadlines, on varied complex topics; from quantum computers to teleportation. I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a quick and enthusiastic learner and respond well to feedback.
