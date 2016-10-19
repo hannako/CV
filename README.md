@@ -44,6 +44,8 @@ In addition to my recent graduation from Makers Academy, I have an MSc in Scienc
 You can read my full cv on [LinkedIn](https://uk.linkedin.com/in/jessicajonespd)
 
 ## Other stuff
-I am a trustee of an educational charity, Lara's Foundation. I am a newish mum. I am newish blogger. I love science, cooking and Sandi Metz's POODR.
+I am a trustee of an educational charity [Lara's Foundation](https://larasfoundation.wordpress.com/). Since graduating from Makers I have begun rebuilding their website.  
+I contribute to [Draw My Life](https://github.com/empowerhack/DrawMyLife-Service) an open source, volunteer-led initiative born at an EmpowerHack hackathon for refugee women and girls in 2016.
+I am a newish mum. I love science, cooking and Sandi Metz's POODR.
 
-You can read my blog on [Medium](https://medium.com/jess-jones-blogs-makers)
+You can read my (slightly neglected blog) on [Medium](https://medium.com/jess-jones-blogs-makers)
