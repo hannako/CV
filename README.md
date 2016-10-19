@@ -48,4 +48,4 @@ You can read my full cv on [LinkedIn](https://uk.linkedin.com/in/jessicajonespd)
 * I contribute to [Draw My Life](https://github.com/empowerhack/DrawMyLife-Service) an open source, volunteer-led initiative born at an EmpowerHack hackathon for refugee women and girls in 2016.
 * I am a newish mum. 
 
-You can read my (slightly neglected blog) on [Medium](https://medium.com/jess-jones-blogs-makers)
+You can read my (slightly neglected) blog on [Medium](https://medium.com/jess-jones-blogs-makers)
