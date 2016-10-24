@@ -5,7 +5,7 @@
 Before learning to code I was a freelance TV producer, specialising in science, engineering and food shows for the BBC, C4, Discovery and National Geographic. Earlier this year I made the exciting decision to turn from one type of programme making to another. Goodbye broadcast...Hello tech.  I strive to write clean code, be useful, and solve problems.
 
 ## Technical Training
-Makers Academy (June 2016 – September 2016)
+ [Makers Academy](http://makersacademy.com) (June 2016 – September 2016)
 - Best practices in Test Driven Development:
   - Rspec, Capybara, Jasmine.
 - OOP, SOLID design principles.
@@ -39,7 +39,7 @@ You can read my (slightly neglected) blog on [Medium](https://medium.com/jess-jo
 ## Personal Attributes
 
 #### Drive
-I am highly motivated, and unafraid of a challenge. I completed the 12-week [Makers Academy](http://makersacademy.com) coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
+I am highly motivated, and unafraid of a challenge. I completed the 12-week Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a large helping of self-belief.
 
 #### Love of Learning and Feedback
 I have made series (i.e. scripted, directed and edit produced) to extremely tight deadlines, on varied complex topics from quantum computers to teleportation. I have a well-honed ability to read, absorb and get up to speed with advanced topics fast. I am a quick and enthusiastic learner and respond well to feedback.
